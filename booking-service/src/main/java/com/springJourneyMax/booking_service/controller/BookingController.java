@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestClient;
 
 @RestController
-@RequestMapping("/booking")
+@RequestMapping("/main")
 @RequiredArgsConstructor
 public class BookingController {
 
